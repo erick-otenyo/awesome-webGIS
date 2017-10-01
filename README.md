@@ -11,7 +11,7 @@ By an open project I mean, some application or code someone or some people have 
   
   If you need to bootstrap a simple web map with minimal functionalities, such as vusialization only, this is a good start point. Personaly I think I have use it in many projects as my reference point for some leaflet code.
   ### [Calcite Maps](https://github.com/Esri/calcite-maps)
-  This is also a  Bootstrap theme for designing, styling and creating modern map apps, but with the main focus on suing it with Esri ArcGIS JS API. I like it because it also encorparates [Esri-leaflet](https://esri.github.io/esri-leaflet/)
+  This is also a  Bootstrap theme for designing, styling and creating modern map apps, but with the main focus on using it with Esri ArcGIS JS API. I like it because it also encorparates [Esri-leaflet](https://esri.github.io/esri-leaflet/)
   
 ## Front End Frameworks
   ### [jane-maps](https://github.com/Esri/calcite-maps)
@@ -26,4 +26,13 @@ By an open project I mean, some application or code someone or some people have 
  ### [opengrid](https://github.com/Chicago/opengrid)
  A user-friendly, map-based tool to combine and explore real-time or historical data.
 It is  an open-source, interactive map platform that allows users to explore multiple data sources in an easy-to-use interface.
+## Crowd Sourcing Applications
+ ### [Nodeshot](https://github.com/ninuxorg/nodeshot)
+This is a Django based tools to create crowdsourcing web apps
+Its goal it’s to provide some robust tools to build a modern customized crowdsourcing web application quickly.
+It is designed to be modular, flexible, configurable and extensible.
+### [umap](https://github.com/umap-project/umap)
+uMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site.
+The developers of the project beleive that the more OSM will be used, the more OSM will be ''cured''
+
 
