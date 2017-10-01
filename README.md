@@ -5,6 +5,8 @@ Something I can just clone the code and have it running on my computer. The digg
 
 By an open project I mean, some application or code someone or some people have wrote, and due to their generousity and open source spirit, have made the code freely available to other developers or users.
 
+This small write up is a wrok in progress. Feel free to open an issue for improvement or an addition
+
 ## Web Map Templates 
   ### [Bootleaf](https://github.com/bmcbride/bootleaf)
   Bootleaf is a template for building simple and elegant web mapping applications with Bootstrap and Leaflet.
