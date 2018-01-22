@@ -1,9 +1,9 @@
-# open-GIS
+# awesome-webGIS
 In my entire period in Campus, I have came across many web GIS projects. A curious search on the web always led me to different websites with a lot of GIS materials, but I was mostly interested in open Projects on Github.
 
 Something I can just clone the code and have it running on my computer. The digging has not been easy. But here I present my findings and hope this can help someone looking for a simple GIS solution, or someone who wants to learn or know how things are done.
 
-By an open project I mean, some application or code someone or some people have wrote, and due to their generousity and open source spirit, have made the code freely available to other developers or users.
+By a open project I mean, some application or code someone or some people have wrote, and due to their generousity and open source spirit, have made the code freely available to other developers or users.
 
 This small write up is a wrok in progress. Feel free to open an issue for improvement or an addition
 
