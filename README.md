@@ -36,5 +36,10 @@ It is designed to be modular, flexible, configurable and extensible.
 ### [umap](https://github.com/umap-project/umap)
 uMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site.
 The developers of the project beleive that the more OSM will be used, the more OSM will be ''cured''
+### [osm-tasking-manager](https://github.com/hotosm/osm-tasking-manager2)
+Designed and built for Humanitarian OpenStreetMap Team collaborative emergency/disaster mapping, the OSM Tasking Manager 2.0 divides an area into individual squares that can be rapidly mapped by thousands of volunteers.
+The platform enables collaborative work on specific areas in OpenStreetMap by defining clear workflows to be achieved and by breaking tasks down into pieces.
+
+
 
 
