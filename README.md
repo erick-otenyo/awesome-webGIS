@@ -22,6 +22,10 @@ This small write up is a wrok in progress. Feel free to open an issue for improv
   
  ### [Mapstore](https://github.com/geosolutions-it/MapStore2)
 An Open Source highly modular webgis framework developed by GeoSolutions to create, manage and share securely in a simple and intuitive way maps and mashups created mixing contents served from servers like Google Maps, OpenStreetMap, Bing or from server adehering to OGC standards like WFS, CSW, WMS, WMTS and TMS.
+
+ ## [Terria JS](https://github.com/TerriaJS/TerriaMap)
+ TerriaJS is a library for building rich, web-based geospatial data explorers. It uses Cesium and WebGL for a full 3D globe in the browser with no plugins. It gracefully falls back to 2D with Leaflet on systems that can't run Cesium. It can handle catalogs of thousands of layers, with dozens of geospatial file and web service types supported. It is almost entirely JavaScript in the browser, meaning it can even be deployed as a static website, making it simple and cheap to host.
+
   
 ## Databases
  ### [postgis-preview](https://github.com/NYCPlanning/postgis-preview)
