@@ -16,9 +16,12 @@ This small write up is a wrok in progress. Feel free to open an issue for improv
   This is also a  Bootstrap theme for designing, styling and creating modern map apps, but with the main focus on using it with Esri ArcGIS JS API. I like it because it also encorparates [Esri-leaflet](https://esri.github.io/esri-leaflet/)
   
 ## Front End Frameworks
-  ### [jane-maps](https://github.com/Esri/calcite-maps)
+  ### [jane-maps](https://github.com/NYCPlanning/jane-maps)
   A framework for rich, composable web maps using React and MapboxGL.Its developers describe  it as a react component for building modular, multi-layer web maps with complex UIs.
   I personally like this one, and use it a lot in my projects.It a must check!..
+  
+ ### [Mapstore](https://github.com/geosolutions-it/MapStore2)
+An Open Source highly modular webgis framework developed by GeoSolutions to create, manage and share securely in a simple and intuitive way maps and mashups created mixing contents served from servers like Google Maps, OpenStreetMap, Bing or from server adehering to OGC standards like WFS, CSW, WMS, WMTS and TMS.
   
 ## Databases
  ### [postgis-preview](https://github.com/NYCPlanning/postgis-preview)
