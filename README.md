@@ -1,5 +1,5 @@
 # awesome-webGIS
-In my entire period in Campus, I have came across many web GIS projects. A curious search on the web always led me to different websites with a lot of GIS materials, but I was mostly interested in open Projects on Github.
+In my GIS development career, I have came across many web GIS projects. A curious search on the web always led me to different websites with a lot of GIS materials, but I was mostly interested in open Projects on Github.
 
 Something I can just clone the code and have it running on my computer. The digging has not been easy. But here I present my findings and hope this can help someone looking for a simple GIS solution, or someone who wants to learn or know how things are done.
 
